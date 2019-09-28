@@ -1,0 +1,61 @@
+.tarjeta{
+    height: 250px;
+    width: 600px;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 5px 4px black;
+    background-color: greenyellow
+}
+
+.tarjeta-2{
+    height: 250px;
+    width: 600px;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 5px 4px black;
+    background-color: rgb(153, 7, 153);
+}
+
+.tarjeta-3{
+    height: 250px;
+    width: 600px;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 5px 4px black;
+    background-color: blue;
+}
+
+.tarjeta-4{
+    height: 250px;
+    width: 600px;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 5px 4px black;
+    background-color: whitesmoke;
+}
+
+.tarjeta-5{
+    height: 250px;
+    width: 600px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 4px black;
+    background-color: red;
+}
+
+.foto{
+    width: 250px;
+    box-shadow: 4px 4px black;
+}
+
+.texto{
+    width: 300px;
+    display: inline-block;
+    position: absolute;
+    right: 770px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    color: black;
+}
